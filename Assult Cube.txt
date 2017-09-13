@@ -1,0 +1,8 @@
+BASE
+2A3A380
+
+MAIN
+50F4F4
+F8 offset (points to 2A3A448)
+
+2A3A448 - C8 = ROOT
